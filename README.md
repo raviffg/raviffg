@@ -1,1 +1,2 @@
-Building and tinkering with robot kinematics, embedded motor control, and physics/CAD simulation tools.
+# Raveendra Kumar Doddi
+Personal site and engineering notes: <https://raviffg.github.io>
